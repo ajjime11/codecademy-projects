@@ -1,0 +1,45 @@
+/* General Font Setting */
+body {
+  font-family: Helvetica;
+}
+
+/* Header Styling */
+h1 {
+  background-image: url("resources/pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  /* This ensures the image covers the header area */
+  padding: 50px 0;
+}
+
+/* Section Headings Styling */
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+/* Specific Background Colors for H2s */
+.brushes {
+  background-color: mediumspringgreen;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+/* Subheadings and Pricing */
+h3 {
+  font-weight: bold;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
